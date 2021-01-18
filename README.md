@@ -1,5 +1,6 @@
 # School_District_Analysis
 
+<<<<<<< HEAD
 ## Overview of the school district analysis
 =======
 ![](/Resources/Education.gif)
@@ -84,3 +85,4 @@ Removing certain item from the data set may have a little impact on the overall 
     2. 1,361 students had to be removed from the series, pushing Thomas High School into the medium sized bin. 
     3. Removing this students pushed Thomas High School into the $650 budget per student range. 
     4. It had no effect on the type of school.
+>>>>>>> f426f73a690241f608d9aae9edf409637ead8dd5

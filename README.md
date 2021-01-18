@@ -1,6 +1,5 @@
 # School_District_Analysis
 
-<<<<<<< HEAD
 ## Overview of the school district analysis
 =======
 ![](/Resources/Education.gif)

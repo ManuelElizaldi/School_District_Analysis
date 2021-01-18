@@ -2,7 +2,6 @@
 
 
 ## Overview of the school district analysis
-=======
 ![](/Resources/Education.gif)
 
 ## Overview of the school district analysis:
